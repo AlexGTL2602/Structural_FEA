@@ -1,11 +1,4 @@
-%+-----------------------------------------------------------------------+
-%| Description:                                                          |
-%| To derive the stiffness matrix in 2D space                            |
-%+-----------------------------------------------------------------------+
-%+-----------------------------------------------------------------------+
-%| Created by Professor Hai Qing                                         |
-%| Copyright: Nanjing University of Aeronautics and Astronautics 2016    |
-%| Contact: qinghai@nuaa.edu.cn                                          |
+
 %+-----------------------------------------------------------------------+
 %| variables                                                             |
 %| SF: shape function                                                    |
