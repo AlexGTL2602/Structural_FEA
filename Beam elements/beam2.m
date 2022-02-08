@@ -1,7 +1,4 @@
-%+-----------------------------------------------------------------------+
-%| Description:                                                          |
-%| To derive the stiffness matrix in 2D space                            |
-%+-----------------------------------------------------------------------+
+
 %| variables                                                             |
 %| SF: shape function                                                    |
 %| u: displacement                                                       |
